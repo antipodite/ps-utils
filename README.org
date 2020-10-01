@@ -1,0 +1,17 @@
+* Ps-Utils  - Small collection of utilities for the Parenscript CL->JS transpiler
+
+** Usage
+A small collection of utilities for working with Parenscript. Right now, it exports the =defscript= macro and =compile-scripts=. More documentation to follow...
+** Installation
+As usual for Common Lisp systems: clone this repository into either your =~/quicklisp/local-projects= or =~/common-lisp= folder and then =(ql:quickload :ps-utils)= from the REPL.
+** Author
+
++ Isaac Stead (isaac.stead@protonmail.com)
+
+** Copyright
+
+Copyright (c) 2020 Isaac Stead (isaac.stead@protonmail.com)
+
+** License
+
+Licensed under the AGPL License.
